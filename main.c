@@ -10,7 +10,7 @@
 #include "common.h"
 
 void usage() {
-    printf("usage: pckt [unpack/pack] [input file/dir] [output file/dir]\n");
+    printf("usage: pckt <unpack|pack> <input pck/dir> <output pck/dir>\n");
     exit(1);
 }
 
