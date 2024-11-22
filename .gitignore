@@ -1,0 +1,10 @@
+*.o
+
+pckt
+
+*.txt
+*.pck
+
+.vscode
+
+.DS_Store
